@@ -14,7 +14,6 @@ This feed is for private use only and not intended for public redistribution.
 <channel>
 <title>Outpost: Archive</title>
 <link>https://giantgnome.com/category/startrekoutpost_podcast/</link>
-<atom:link href="https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/star_trek_outpost_test.xml" rel="self" type="application/rss+xml" />
 <link>https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/star_trek_outpost_test.xml</link>
 <language>en-us</language>
 <copyright>© 2009–2024 Giant Gnome Productions. All rights reserved.</copyright>
@@ -92,3 +91,4 @@ Release Date: April 5, 2009]]></description>
 </item>
 </channel>
 </rss>
+
