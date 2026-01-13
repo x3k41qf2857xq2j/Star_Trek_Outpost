@@ -23,7 +23,8 @@ This feed is for private use only and not intended for public redistribution.
 <itunes:summary>Star Trek Audio Drama from Giant Gnome Productions.  Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.  "In the darkest reaches of the United Federation of Planets, an isolated station stands sentinel over a neglected frontier. Commissioned long ago with high hopes, its promise is now all but forgotten; a lonely outpost serving as the gateway to the vast expanse beyond, where discovery… and adventure… await."  - Lt. Commander Gregory Torkelson]]></itunes:summary>
 <itunes:image href="https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/OutpostPodcastImage.jpg"/> <!-- T:\Podcasts\Images\Star Trek Outpost\OutpostPodcastImage.jpg -->
 <itunes:type>episodic</itunes:type>
-<description><![CDATA[Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br /><br />
+<description><![CDATA[
+Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br /><br />
 
 "In the darkest reaches of the United Federation of Planets, an isolated station stands sentinel over a neglected frontier. Commissioned long ago with high hopes, its promise is now all but forgotten; a lonely outpost serving as the gateway to the vast expanse beyond, where discovery… and adventure… await."<br />
 - Lt. Commander Gregory Torkelson]]></description>
@@ -48,7 +49,8 @@ This feed is for private use only and not intended for public redistribution.
 <item>
 <title>Star Trek: Outpost – Episode 1 – What Could Be So Bad?</title>
 <itunes:author>Giant Gnome Productions</itunes:author>
-<description><![CDATA[Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br /><br />
+<description><![CDATA[
+Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br /><br />
 
 <strong>Cast &amp; Crew</strong><br />
 Robert Pepper as <em>Lt. Commander Greg Torkelson</em><br />
@@ -92,3 +94,4 @@ Release Date: April 5, 2009]]></description>
 </item>
 </channel>
 </rss>
+
