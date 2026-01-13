@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+version="2.0">
 
 <!--
 This feed is a personal archival project. 
@@ -10,29 +14,28 @@ This feed is for private use only and not intended for public redistribution.
 <channel>
 <title>Outpost: Archive</title>
 <link>https://giantgnome.com/category/startrekoutpost_podcast/</link>
-
-<itunes:summary>Star Trek Audio Drama from Giant Gnome Productions.</itunes:summary>
-
+<atom:link href="https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/star_trek_outpost_test.xml" rel="self" type="application/rss+xml" />
+<link>https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/star_trek_outpost_test.xml</link>
+<language>en-us</language>
+<copyright>© 2009–2024 Giant Gnome Productions. All rights reserved.</copyright>
+<itunes:subtitle>A Star Trek fan audio drama set aboard the Federation Deep Space Station 3 (DS3)</itunes:subtitle>
+<itunes:author>Giant Gnome Productions</itunes:author>
+<itunes:summary>Star Trek Audio Drama from Giant Gnome Productions.  Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.  "In the darkest reaches of the United Federation of Planets, an isolated station stands sentinel over a neglected frontier. Commissioned long ago with high hopes, its promise is now all but forgotten; a lonely outpost serving as the gateway to the vast expanse beyond, where discovery… and adventure… await."  - Lt. Commander Gregory Torkelson]]></itunes:summary>
+<itunes:image href="https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/OutpostPodcastImage.jpg"/> <!-- T:\Podcasts\Images\Star Trek Outpost\OutpostPodcastImage.jpg -->
+<itunes:type>episodic</itunes:type>
 <description><![CDATA[Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br /><br />
 
 "In the darkest reaches of the United Federation of Planets, an isolated station stands sentinel over a neglected frontier. Commissioned long ago with high hopes, its promise is now all but forgotten; a lonely outpost serving as the gateway to the vast expanse beyond, where discovery… and adventure… await."<br />
 - Lt. Commander Gregory Torkelson]]></description>
-<lastBuildDate>Thu, 16 Jun 2022 02:34:04 +0000</lastBuildDate>
-<language>en-US</language>
-<itunes:author>Giant Gnome Productions</itunes:author>
 <itunes:owner>
 <itunes:name>Giant Gnome Productions</itunes:name>
 <itunes:email>test@test.com</itunes:email>
 </itunes:owner>
 <itunes:explicit>false</itunes:explicit>
-<itunes:type>episodic</itunes:type>
 <itunes:category text="Fiction">
 <itunes:category text="Science Fiction"/>
 </itunes:category>
-<itunes:category text="TV &amp; Film"/>
-<itunes:image href="https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/OutpostPodcastImage.jpg"/>
-<!-- T:\Podcasts\Images\Star Trek Outpost\OutpostPodcastImage.jpg -->
-<copyright>© 2009–2024 Giant Gnome Productions. All rights reserved.</copyright>
+<lastBuildDate>Thu, 16 Jun 2022 02:34:04 +0000</lastBuildDate>
 
 <!-- Episodes will go here in descending order -->
 
@@ -44,7 +47,7 @@ This feed is for private use only and not intended for public redistribution.
 
 <item>
 <title>Star Trek: Outpost – Episode 1 – What Could Be So Bad?</title>
-
+<itunes:author>Giant Gnome Productions</itunes:author>
 <description><![CDATA[Life is good for Lt. Greg Torkelson aboard the USS Remington, a Starfleet research vessel stationed near the Venderis Nebula. However, when word comes that he’s been promoted to the Executive Officer of Deep Space Station 3, an outpost in the backwaters of Federation space, he quickly discovers that all is not as it appears, and what seems to be too good to be true just might be.<br /><br />
 
 <strong>Cast &amp; Crew</strong><br />
@@ -76,15 +79,16 @@ Announcer: <em>Paul Lavelle</em><br /><br />
 The post <a href="https://giantgnome.com/2009/04/star-trek-outpost-episode-1/">Star Trek: Outpost - Episode 1 - What Could Be So Bad?</a> appeared first on <a href="https://giantgnome.com">Giant Gnome Productions</a>.<br /><br />
 
 Release Date: April 5, 2009]]></description>
-
 <enclosure url="https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/StarTrekOutpost-Episode-01.mp3" length="28743255" type="audio/mpeg"/>
+<guid isPermaLink="true">https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/StarTrekOutpost-Episode-01.mp3</guid>
 <pubDate>Sun, 05 Apr 2009 07:01:42 +0000</pubDate>
-<guid isPermaLink="false">stop-episode-001</guid>
+<link>https://giantgnome.com/2009/04/star-trek-outpost-episode-1/</link>
 <itunes:duration>00:56:51</itunes:duration>
-<itunes:explicit>no</itunes:explicit>
-
-<itunes:author>Giant Gnome Productions</itunes:author>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>1</itunes:episode>
+<itunes:order>1</itunes:order>
 <itunes:image href="https://raw.githubusercontent.com/x3k41qf2857xq2j/star_trek_outpost/main/outpost-cover-11.jpg"/>
+<itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
 </rss>
